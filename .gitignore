@@ -1,0 +1,21 @@
+# Build outputs
+client
+server
+*.o
+*.out
+*.exe
+
+# Debug and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Editor and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local agent metadata
+.agents/
